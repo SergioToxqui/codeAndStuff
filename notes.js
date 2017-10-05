@@ -1,3 +1,3 @@
 testing testing,
-testing line 1
-testing line 2
+testing line 1;
+testing line 2;
